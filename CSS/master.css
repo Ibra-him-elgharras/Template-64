@@ -30,6 +30,7 @@ html,body{
     transform: scale(2);
     letter-spacing: 2px;
     padding: 30px;
+    
 }
 .content .text:before,
 .content .text:after{
@@ -54,4 +55,5 @@ html,body{
     text-shadow: -5px 0 blue;
     animation: data-text-2 2s 0s linear reverse infinite;
 }
+
 
